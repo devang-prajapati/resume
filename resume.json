@@ -1,0 +1,188 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Devang Prajapati",
+    "label": "Programmer Analyst - Full Stack Developer",
+    "image": "https://media-exp1.licdn.com/dms/image/C4E03AQG80beNf-ny_g/profile-displayphoto-shrink_800_800/0/1604034120721?e=1656547200&v=beta&t=RT4ulz2_O_ux--C0ya0d2f-WxJCWUkvT3SpZumFtEMA",
+    "email": "devangprajapati1997@gmail.com",
+    "phone": "+91 99048 40437",
+    "url": "https://www.xyz.com",
+    "summary": "Experienced Programming Analyst with a demonstrated history of working in the information technology and services industry. Skilled in Node.js, Angular, React, MongoDB, Elasticsearch, serverless microservices. Strong engineering professional with a Master of Computer Applications - MCA focused in Study from GLS Institute of Computer Technology (MCA Program) (SFI)-Ahmedabad 509.",
+    "location": {
+      "address": "29 Snehkunj Soc., T.B. Road",
+      "postalCode": "384002",
+      "city": "Mehsana",
+      "countryCode": "IN",
+      "region": "Gujarat"
+    },
+    "profiles": [
+      
+    ]
+  },
+  "work": [
+    {
+      "name": "Third Rock Techkno",
+      "location": "Ahmedabad, IN",
+      "description": "Awesome compression company",
+      "position": "Programmer Analyst",
+      "url": "https://www.thirdrocktechkno.com/",
+      "startDate": "2019-05-18",
+      "endDate": "",
+      "summary": "Worked on backend as well as frontend with some of the cloud services of AWS and firebase,",
+      "highlights": [
+        "Backend - Express, Nest.js ( serverless )",
+        "Frontend - Angular & React ( Integrated with NX ), Next.js ( serverless )",
+        "AWS - EC2, S3, Lambda with layers , SES, SQS, API Gateway, Batch",
+        "GCP - Firebase & Firestore"
+      ]
+    },
+    {
+      "name": "Third Rock Techkno",
+      "location": "Ahmedabad, IN",
+      "description": "Awesome compression company",
+      "position": "Internship Trainee",
+      "url": "https://www.thirdrocktechkno.com/",
+      "startDate": "2018-11-18",
+      "endDate": "2019-05-18",
+      "highlights": [
+        "Learned JavaScript, TypeScript and Node.js with MongoDB, Elasticsearch, MySQL and other Restful API & backend related things."
+      ]
+    }
+  ],
+  "volunteer": [
+  ],
+  "education": [
+    {
+      "institution": "GLS Institute of Computer Technology",
+      "url": "http://www.glsict.org/",
+      "area": "Information Technology",
+      "studyType": "Master",
+      "startDate": "2017-06-01",
+      "endDate": "2019-01-01",
+      "score": "9.0",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "HNGU - Hemchandracharya North Gujarat University",
+      "url": "https://www.ngu.ac.in/",
+      "area": "Information Technology",
+      "studyType": "Bachelor",
+      "startDate": "2014-06-01",
+      "endDate": "2017-05-31",
+      "score": "9.0",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Employee of the month",
+      "date": "2021",
+      "awarder": "Third Rock Techkno",
+      "summary": ""
+    },
+    {
+      "title": "Rising Star",
+      "date": "2019-12",
+      "awarder": "Third Rock Techkno",
+      "summary": ""
+    },
+    {
+      "title": "Silent Techy",
+      "date": "2018-12",
+      "awarder": "GLS Institute of Computer Technology",
+      "summary": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "Node.js",
+        "Angular",
+        "JavaScript",
+        "TypeScript",
+        "Serverless",
+        "Microservices",
+        "Microfrontends",
+        "NX Integration"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "Master",
+      "keywords": [
+        "MongoDB",
+        "Elasticsearch",
+        "MySQL"
+      ]
+    },
+    {
+      "name": "DevOps & CICD",
+      "level": "Intermediate",
+      "keywords": [
+        "Bitbucket Pipeline",
+        "Jenkins",
+        "Docker"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": ""
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Gujarati",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "NFTs",
+      "keywords": [
+        "Blockchain development"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Neeraj Vageele",
+      "reference": "It is my pleasure to recommend Devang, his performance working as a programmer analyst for company proved that he will be a valuable addition to any company."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Confidential",
+      "description": "A Digitalized collection with a large amount of books.",
+      "highlights": [
+      ],
+      "keywords": [
+        "Web app",
+        "SPA",
+        "Javascript","TypeScript"
+      ],
+      "startDate": "2016-08-24",
+      "endDate": "2016-08-24",
+      "url": "",
+      "roles": [
+        "Team lead",
+        "Designer",
+        "Developer"
+      ],
+      "entity": "",
+      "type": "application"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}
