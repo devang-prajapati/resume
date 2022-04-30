@@ -3,11 +3,10 @@
   "basics": {
     "name": "Devang Prajapati",
     "label": "Programmer Analyst - Full Stack Developer",
-    "image": "https://media-exp1.licdn.com/dms/image/C4E03AQG80beNf-ny_g/profile-displayphoto-shrink_800_800/0/1604034120721?e=1656547200&v=beta&t=RT4ulz2_O_ux--C0ya0d2f-WxJCWUkvT3SpZumFtEMA",
     "email": "devangprajapati1997@gmail.com",
     "phone": "+91 99048 40437",
-    "url": "https://www.xyz.com",
-    "summary": "Experienced Programming Analyst with a demonstrated history of working in the information technology and services industry. Skilled in Node.js, Angular, React, MongoDB, Elasticsearch, serverless microservices. Strong engineering professional with a Master of Computer Applications - MCA focused in Study from GLS Institute of Computer Technology (MCA Program) (SFI)-Ahmedabad 509.",
+    "url": "https://devang-prajapati.github.io/resume/",
+    "summary": "Experienced Programming Analyst with a demonstrated history of working in the information technology and services industry. Skilled in Node.js, Angular, React, MongoDB, Elasticsearch, serverless microservices & microfrontends. Strong engineering professional with a Master of Computer Applications - MCA focused in Study from GLS Institute of Computer Technology (MCA Program) (SFI)-Ahmedabad 509.",
     "location": {
       "address": "29 Snehkunj Soc., T.B. Road",
       "postalCode": "384002",
@@ -16,14 +15,23 @@
       "region": "Gujarat"
     },
     "profiles": [
-      
+      {
+        "url": "https://www.linkedin.com/in/devangprajapati1997/",
+        "network": "LinkedIn",
+        "username": "devangprajapati1997"
+      },
+      {
+        "url": "https://github.com/devang-prajapati/",
+        "network": "Github",
+        "username": "devang-prajapati"
+      }
     ]
   },
   "work": [
     {
       "name": "Third Rock Techkno",
       "location": "Ahmedabad, IN",
-      "description": "Awesome compression company",
+      "description": "A leading IT services company providing robust software development solutions to startups and enterprises globally",
       "position": "Programmer Analyst",
       "url": "https://www.thirdrocktechkno.com/",
       "startDate": "2019-05-18",
@@ -39,7 +47,7 @@
     {
       "name": "Third Rock Techkno",
       "location": "Ahmedabad, IN",
-      "description": "Awesome compression company",
+      "description": "A leading IT services company providing robust software development solutions to startups and enterprises globally",
       "position": "Internship Trainee",
       "url": "https://www.thirdrocktechkno.com/",
       "startDate": "2018-11-18",
@@ -55,22 +63,42 @@
     {
       "institution": "GLS Institute of Computer Technology",
       "url": "http://www.glsict.org/",
-      "area": "Information Technology",
+      "area": "Master Of Computer Applications",
       "studyType": "Master",
       "startDate": "2017-06-01",
-      "endDate": "2019-01-01",
-      "score": "9.0",
+      "endDate": "2019-05-31",
+      "score": "8.67",
       "courses": [
       ]
     },
     {
       "institution": "HNGU - Hemchandracharya North Gujarat University",
       "url": "https://www.ngu.ac.in/",
-      "area": "Information Technology",
+      "area": "Bechelor Of Computer Applications",
       "studyType": "Bachelor",
       "startDate": "2014-06-01",
       "endDate": "2017-05-31",
-      "score": "9.0",
+      "score": "8.17",
+      "courses": []
+    },
+    {
+      "institution": "GSHEB - Gujarat Secondary and Higher Secondary Education Board",
+      "url": "https://www.gseb.org/",
+      "area": "12th Commerce",
+      "studyType": "HSC",
+      "startDate": "2013-06-01",
+      "endDate": "2014-05-31",
+      "score": "6.1",
+      "courses": []
+    },
+    {
+      "institution": "GSHEB - Gujarat Secondary and Higher Secondary Education Board",
+      "url": "https://www.gseb.org/",
+      "area": "10th",
+      "studyType": "SSC",
+      "startDate": "2011-06-01",
+      "endDate": "2012-05-31",
+      "score": "7.0",
       "courses": []
     }
   ],
@@ -153,30 +181,53 @@
   ],
   "references": [
     {
-      "name": "Neeraj Vageele",
+      "name": "Jenish Patel",
       "reference": "It is my pleasure to recommend Devang, his performance working as a programmer analyst for company proved that he will be a valuable addition to any company."
     }
   ],
   "projects": [
     {
       "name": "Confidential",
-      "description": "A Digitalized collection with a large amount of books.",
+      "description": "A Digital collection library ( similar to New York Public Library's collections ) with a large amount of books. It follows IIIF - International Image Interoperability Framework for API standards ( image API, Annotation API, manifest etc.) ",
       "highlights": [
+        "My first role in the project was backend the developer then later i've started working on frontend ( angular and react both ), currently i'm leading the project team.",
+        "On the backend, I've worked on serverless, microservices architecture.",
+        "On the frontend, I've created microfrontends with NX to render one frontend into another.",
+        "Worked on some of the AWS services like EC2, lambda ( with layers ), SQS, SES, Batch etc.",
+        "Setup cantaloupe image server to render JPEG2000 images with Grok and kakadu image compression tools",
+        "Deployed Apps with the help of serverless, claudia and EC2 with docker",
+        "Created Restful search & filter APIs with the help of node.js ( express ) and elasticsearch as searchDB.",
+        "Worked on OCR with tesseract to fetch text from book content for search purpose.",
+        "Created custom CMS - Rendered dynamic components with angular and NX.",
+        "Customised IIIF Manifest Editor - Digital Bodleian & IIIF Manifest Viewer - Mirador."
       ],
       "keywords": [
         "Web app",
-        "SPA",
-        "Javascript","TypeScript"
+        "JavaScript",
+        "TypeScript",
+        "IIIF Standards",
+        "NX",
+        "Angular",
+        "Node.js",
+        "React",
+        "Mirador",
+        "Bodleian",
+        "Docker",
+        "Jenkins",
+        "Tesseract",
+        "Elasticsearch",
+        "MongoDB",
+        "AWS",
+        "D3.js",
+        "Leaflet with Open Street Map"
       ],
       "startDate": "2019-03-15",
-      "endDate": "",
-      "url": "",
       "roles": [
-        "Team lead",
+        "Team Lead",
         "Designer",
         "Developer"
       ],
-      "entity": "",
+      "entity": "Educational Domain",
       "type": "application"
     }
   ],

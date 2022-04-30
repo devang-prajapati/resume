@@ -11,5 +11,11 @@
     "cv"
   ],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "resume-cli": "^3.0.7"
+  },
+  "dependencies": {
+    "jsonresume-theme-fullmoon": "^0.1.0"
+  }
 }
